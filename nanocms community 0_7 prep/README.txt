@@ -1,5 +1,5 @@
-nanoCMS Community Build 0.7 prep - 10th May '10
-nanoCMS Community Build 0.7 a fork of nanoCMS 0.4. www.nanocms.co.uk
+nanoCMS Community Build 1.0 prep - 06th june '15
+nanoCMS Community Build 1.0 a fork of nanoCMS 0.4.
 License: GPL open source
 nanoCMS originally created by Kalyan Chakravarthy www.KalyanChakravarthy.net
 
@@ -8,12 +8,12 @@ Alec Gorge, Andrew Emmett, Zorchenhimer & Tikakino.
 
 
 - 10th May '10
-Please note this is only a 0.7 prep package. If you are using nanoCMS Community 0.6 
+Please note this is only a 1.0 prep package. If you are using nanoCMS Community 0.7 
 you do not need to upgrade.The only changes are to the admin interface, installation 
 instructions and bundled TinyMCE tweaker.
 ____________________________________________________________________________________
 
-How to Install nanoCMS Community 0.7
+How to Install nanoCMS Community 1.0
 
 Clean Installation:
 -------------------
